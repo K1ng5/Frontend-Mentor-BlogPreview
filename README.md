@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![]([screenshot.jpg](https://raw.githubusercontent.com/K1ng5/Frontend-Mentor-BlogPreview/main/screenshot.png))
 
 
 ### Links
